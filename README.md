@@ -75,7 +75,7 @@ chmod +x 01_bash_30_days/*.sh
 
 -------
 
-## ⚠️ Disclaimer
+## ⚠️ Warning
 ```markdown
 # All scripts are created for educational purposes. Use only in test environments with appropriate permissions.
 ```
