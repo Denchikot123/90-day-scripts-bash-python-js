@@ -18,6 +18,7 @@ An intensive 90-day challenge to create pentest-scripts and learn languages for 
 | **1** | 1-30 | Bash | System automation |
 | **2** | 31-60 | Python | Network intelligence |
 | **3** | 61-90 | JavaScript | Web exploits |
+| **4** | 90+ | Bash + Py + JS | Final project |
 
 ## 📁 Структура репозитория
 
