@@ -20,7 +20,7 @@ An intensive 90-day challenge to create pentest-scripts and learn languages for 
 | **3** | 61-90 | JavaScript | Web exploits |
 | **4** | 90+ | Bash + Py + JS | Final project |
 
-## 📁 Структура репозитория
+## 📁 Repository structure
 
 - ### 90days-pentest-scripts/
 
@@ -57,12 +57,12 @@ chmod +x 01_bash_30_days/*.sh
 
 ### Phase 1: Bash (Days 1-30)
 
-| Day | Script | Status |
-|------|--------|---------|
-| 1 | System Informant | ✅ Completed |
-| 2 | Automatic Backup | 🟡 In progress |
-| 3 | Disk Space Monitor | ❌ Not started |
-| ... | ... | ... |
+| Day | Script | Status | Type |
+|------|--------|---------|-------|
+| 1 | System Informant | ✅ Completed | Base |
+| 2 | Automatic Backup | 🟡 In progress | Base |
+| 3 | Disk Space Monitor | ❌ Not started | Base |
+| ... | ... | ... | ... |
 
 --------
 
