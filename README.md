@@ -81,5 +81,5 @@ chmod +x 01_bash_30_days/*.sh
 ```
 
 ![Progress](https://img.shields.io/badge/Progress-1%2F90-blue)
-![Last Commit](https://img.shields.io/github/last-commit/Denchikot123/90days-pentest-scripts)
+![Last Commit](https://img.shields.io/github/last-commit/@/90days-pentest-scripts)
 ![License](https://img.shields.io/badge/License-MIT-green)
