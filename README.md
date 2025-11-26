@@ -60,8 +60,9 @@ chmod +x 01_bash_30_days/*.sh
 | Day | Script | Status | Type |
 |------|--------|---------|-------|
 | 1 | System Informant | ✅ Completed | Base |
-| 2 | Automatic Backup | 🟡 In progress | Base |
-| 3 | Disk Space Monitor | ❌ Not started | Base |
+| 2 | Automatic Backup | ✅ Completed | Base |
+| 3 | Disk Space Monitor | 🟡 In progress | Base |
+| 4 | File Renamer | ❌ Not started | Base |
 | ... | ... | ... | ... |
 
 --------
