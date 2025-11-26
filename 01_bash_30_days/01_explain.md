@@ -2,7 +2,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 🎯 Purpose
-A lightweight system reconnaissance script for penetration testers to quickly gather essential system information during security assessments.
+A lightweight system reconnaissance script for penetration testers to quickly gather essential system information during security assessments
 
 ## 📊 Output Information
 - **Host Identification**: Computer name and current user
