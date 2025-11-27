@@ -1,11 +1,7 @@
 #!/bin/bash 
 
 BACKUP_DIR="$HOME/backup"
-SOURCE_FILES=(
-    "$HOME/.bashrc"
-    "$HOME/.ssh/config"
-    "$HOME/.ssh/known_hosts"
-)
+SOURCE_FILES=("$HOME/.bashrc" "$HOME/.ssh/config")
 
 if [ ! -d "$BACKUP_DIR" ]; then
     mkdir -p "$BACKUP_DIR"
