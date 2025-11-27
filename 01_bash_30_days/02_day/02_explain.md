@@ -28,10 +28,12 @@ A simple script that copies important/critical files to a created directory (if 
 ```bash
 # Configuration
 BACKUP_DIR="$HOME/backup"
-SOURCE_FILES=("$HOME/.bashrc" "$HOME/.ssh/config" "$HOME/.ssh/known_hosts")
+SOURCE_FILES=("$HOME/.bashrc" "$HOME/.ssh/config")
 
 # Execution flow
 1. Create backup directory
 2. Copy critical directories
 3. Copy individual important files
 4. Report completion status
+```
+![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-green)
