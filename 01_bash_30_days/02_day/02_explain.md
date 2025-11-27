@@ -28,6 +28,7 @@ A simple script that copies important/critical files to a created directory (if 
 ```bash
 # Configuration
 BACKUP_DIR="$HOME/backup"
+SOURCE_FILES=("$HOME/.bashrc" "$HOME/.ssh/config" "$HOME/.ssh/known_hosts")
 
 # Execution flow
 1. Create backup directory
