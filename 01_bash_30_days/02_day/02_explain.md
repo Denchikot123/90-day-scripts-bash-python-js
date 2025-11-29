@@ -35,4 +35,10 @@ SOURCE_FILES=("$HOME/.bashrc" "$HOME/.ssh/config")
 3. Copy individual important files
 4. Report completion status
 ```
+
+## 🚀 Execution
+```bash
+chmod +x day_02_automatic_backup.sh
+./day_02_automatic_backup.sh
+```
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-green)
