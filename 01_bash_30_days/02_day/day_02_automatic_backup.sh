@@ -4,7 +4,7 @@ BACKUP_DIR="$HOME/backup"
 SOURCE_FILES=("$HOME/.bashrc" "$HOME/.ssh/config")
 
 if [ ! -d "$BACKUP_DIR" ]; then
-    mkdir -p "$BACKUP_DIR"
+    mkdir -p "$BACKUP_DIR" 2>/dev/null
 fi
 
 for file in "${SOURCE_FILES[@]}"; do
