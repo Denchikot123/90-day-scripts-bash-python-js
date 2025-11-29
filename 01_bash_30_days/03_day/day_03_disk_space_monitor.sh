@@ -1,8 +1,8 @@
 #!/bin/bash
 
 MAX_USAGE=90
-
 usage=$(df / | awk 'NR==2 {print $5}' | sed 's/%//')
+
 if [ $usage -gt $MAX_USAGE ]; then
     echo "WARNING: The disk is loaded on ${usage}%"
     echo "INFO: The 5 largest files:"
