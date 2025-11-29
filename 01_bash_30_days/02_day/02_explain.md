@@ -11,7 +11,6 @@ A simple script that copies important/critical files to a created directory (if 
 |---------|---------|--------|
 | `mkdir` | Create backup directory | `-p` for parent directories |
 | `cp` | Copy files/directories | `-r` for recursive directory copy |
-| `basename` | Extract filename from path | - |
 | `[ -d ]` | Check if path is directory | Conditional test |
 | `[ -f ]` | Check if path is file | Conditional test |
 | `[ -r ]` | Check if readable | Conditional test |
