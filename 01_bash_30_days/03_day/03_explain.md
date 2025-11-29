@@ -40,3 +40,5 @@ A practical disk monitoring script for penetration testers to quickly identify s
 ```bash
 chmod +x day_03_disk_monitor.sh
 ./day_03_disk_monitor.sh
+```
+![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-green)
