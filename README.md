@@ -61,8 +61,9 @@ chmod +x 01_bash_30_days/*.sh
 |------|--------|---------|-------|
 | 1 | System Informant | ✅ Completed | Base |
 | 2 | Automatic Backup | ✅ Completed | Base |
-| 3 | Disk Space Monitor | 🟡 In progress | Base |
-| 4 | File Renamer | ❌ Not started | Base |
+| 3 | Disk Space Monitor | ✅ Completed | Base |
+| 4 | File Renamer | 🟡 In progress | Base |
+| 5 | Mass File Renaming | ❌ Not started | Base |
 | ... | ... | ... | ... |
 
 --------
@@ -82,6 +83,6 @@ chmod +x 01_bash_30_days/*.sh
 # All scripts are created for educational purposes. Use only in test environments with appropriate permissions.
 ```
 
-![Progress](https://img.shields.io/badge/Progress-1%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-3%2F90-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/@/90days-pentest-scripts)
 ![License](https://img.shields.io/badge/License-MIT-green)
