@@ -63,7 +63,7 @@ chmod +x 01_bash_30_days/*.sh
 | 2 | Automatic Backup | ✅ Completed | Base |
 | 3 | Disk Space Monitor | ✅ Completed | Base |
 | 4 | File Renamer | 🟡 In progress | Base |
-| 5 | Mass File Renaming | ❌ Not started | Base |
+| 5 | Critical Error Analyzer | ❌ Not started | Base |
 | ... | ... | ... | ... |
 
 --------
