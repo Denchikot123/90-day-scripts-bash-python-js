@@ -62,8 +62,9 @@ chmod +x 01_bash_30_days/*.sh
 | 1 | System Informant | ✅ Completed | Base |
 | 2 | Automatic Backup | ✅ Completed | Base |
 | 3 | Disk Space Monitor | ✅ Completed | Base |
-| 4 | File Renamer | 🟡 In progress | Base |
-| 5 | Critical Error Analyzer | ❌ Not started | Base |
+| 4 | File Renamer | ✅ Completed | Base |
+| 5 | Critical Error Analyzer | 🟡 In progress | Base |
+| 6 | Automatic Package Installer | ❌ Not started | Base |
 | ... | ... | ... | ... |
 
 --------
