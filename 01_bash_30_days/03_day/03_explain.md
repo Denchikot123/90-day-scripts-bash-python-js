@@ -2,7 +2,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 🎯 Purpose
-A practical disk monitoring script for penetration testers to quickly identify storage issues and suspicious large files during security assessments
+A practical disk monitoring script to quickly identify storage issues and suspicious large files during security assessments
 
 ## 📊 Monitoring Targets
 - **Root Partition Usage**: Critical disk space monitoring
