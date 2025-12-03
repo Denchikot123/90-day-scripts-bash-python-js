@@ -39,10 +39,7 @@ An intelligent, cross-distribution package management automation script designed
 
 ### Basic Execution:
 ```bash
-# Make the script executable
 chmod +x day_05_auto_package_installer.sh
-
-# Run with appropriate privileges
 sudo ./day_05_auto_package_installer.sh
 ```
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-green)
