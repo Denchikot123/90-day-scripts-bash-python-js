@@ -43,3 +43,4 @@ An intelligent security maintenance tool designed for system administrators and 
 chmod +x day_07_security_update_checker.sh
 ./day_07_security_update_checker.sh
 ```
+![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-green)
