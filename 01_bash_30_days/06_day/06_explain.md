@@ -45,3 +45,4 @@ A proactive log analysis script designed for security practitioners to automatic
 chmod +x day_06_critical_error_analyzer.sh
 ./day_06_critical_error_analyzer.sh
 ```
+![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-green)
