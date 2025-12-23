@@ -64,8 +64,11 @@ chmod +x 01_bash_30_days/*.sh
 | 3 | Disk Space Monitor | ✅ Completed | Base |
 | 4 | File Renamer | ✅ Completed | Base |
 | 5 | Automatic Package Installer | ✅ Completed | Base |
-| 6 | Critical Error Analyzer | 🟡 In progress | Base |
-| 7 | Checking Security Updates | ❌ Not started | Base |
+| 6 | Critical Error Analyzer | ✅ Completed | Base |
+| 7 | Checking Security Updates | ✅ Completed | Base |
+| 8 | Processes Monitor | ✅ Completed | Base |
+| 9 | Network Scanner | 🟡 In progress | Base |
+| 10 | Brute Force Web-Directory | ❌ Not started | Base |
 | ... | ... | ... | ... |
 
 --------
@@ -85,6 +88,6 @@ chmod +x 01_bash_30_days/*.sh
 # All scripts are created for educational purposes. Use only in test environments with appropriate permissions.
 ```
 
-![Progress](https://img.shields.io/badge/Progress-5%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-9%2F90-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/@/90days-pentest-scripts)
 ![License](https://img.shields.io/badge/License-MIT-green)
