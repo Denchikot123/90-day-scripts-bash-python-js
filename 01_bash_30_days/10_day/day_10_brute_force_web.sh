@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TARGET=" http://testphp.vulnweb.com" # Your url
+TARGET="$1" # Your url
 WORDLIST="/usr/share/wordlists/dirb/common.txt" # For Kali
 
 if [ -n "$1" ]; then
