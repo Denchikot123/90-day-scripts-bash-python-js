@@ -68,8 +68,9 @@ chmod +x 01_bash_30_days/*.sh
 | 7 | Checking Security Updates | ✅ Completed | Base |
 | 8 | Processes Monitor | ✅ Completed | Base |
 | 9 | Network Scanner | ✅ Completed | Base |
-| 10 | Brute Force Web-Directory | 🟡 In progress | Base |
-| 11 | Nmap Scan | ❌ Not started | Base |
+| 10 | Brute Force Web-Directory | ✅ Completed | Base |
+| 11 | Auto Nmap Scan | 🟡 In progress | Base |
+| 12 | OSINT Info Collector | ❌ Not started | Base |
 | ... | ... | ... | ... |
 
 --------
@@ -89,6 +90,6 @@ chmod +x 01_bash_30_days/*.sh
 # All scripts are created for educational purposes. Use only in test environments with appropriate permissions.
 ```
 
-![Progress](https://img.shields.io/badge/Progress-10%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-11%2F90-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/@/90days-pentest-scripts)
 ![License](https://img.shields.io/badge/License-MIT-green)
