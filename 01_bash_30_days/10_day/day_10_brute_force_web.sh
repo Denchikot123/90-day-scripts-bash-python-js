@@ -27,4 +27,4 @@ while IFS= read -r dir; do
     
 done < "$WORDLIST" 2>/dev/null
 
-echo "[*] Сканирование завершено."
+echo "[*] Scan completed"
