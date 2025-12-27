@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TARGET="$1"
+TARGET="$1" # Your IP
 OUTPUT="./scan_result"
 SCAN_NAME="result_$(date '+%Y-%m-%d_%H%M%S')"
 
