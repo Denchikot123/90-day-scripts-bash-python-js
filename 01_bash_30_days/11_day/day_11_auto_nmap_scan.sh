@@ -7,7 +7,7 @@ SCAN_NAME="result_$(date '+%Y-%m-%d_%H%M%S')"
 if [ -n "$1" ]; then
     TARGET="$1"
 else
-    echo "[-] Wrong format (./day_11_auto_nmap_scan.sh [IP].\n[EXAMPLE] ./day_11_auto_nmap_scan.sh 192.128.0.1"
+    echo "[-] Wrong format (./day_11_auto_nmap_scan.sh [IP].)"
     exit 1
 fi
 
