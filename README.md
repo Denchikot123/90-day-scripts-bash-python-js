@@ -67,11 +67,11 @@ chmod +x 01_bash_30_days/*.sh
 | 6 | Critical Error Analyzer | ✅ Completed | Base |
 | 7 | Checking Security Updates | ✅ Completed | Base |
 | 8 | Processes Monitor | ✅ Completed | Base |
-| 9 | Network Scanner | ✅ Completed | Base |
-| 10 | Brute Force Web-Directory | ✅ Completed | Base |
-| 11 | Auto Nmap Scan | ✅ Completed | Base |
-| 12 | OSINT Info Collector | 🟡 In progress | Base |
-| 13 | File encryptor | ❌ Not started | Base |
+| 9 | Network Scanner | ✅ Completed | Network |
+| 10 | Brute Force Web-Directory | ✅ Completed | Network |
+| 11 | Auto Nmap Scan | ✅ Completed | Network |
+| 12 | OSINT Info Collector | 🟡 In progress | Network |
+| 13 | File encryptor | ❌ Not started | Security |
 | ... | ... | ... | ... |
 
 --------
@@ -79,8 +79,7 @@ chmod +x 01_bash_30_days/*.sh
 ### Phase 2: Python (Days 31-60)
 *Coming soon...*
 
--------
-
+--------
 ### Phase 3: JavaScript (Days 61-90) 
 *Coming soon...*
 
