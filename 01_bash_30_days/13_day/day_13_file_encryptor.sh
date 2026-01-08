@@ -25,8 +25,8 @@ case "$ACTION" in
 
         if [ -z "$PASSWORD" ]; then
             PASSWORD=$(openssl rand -base64 32)
-            echo "[*] Сгенерирован пароль: $PASSWORD"
-            echo "[!] Сохраните пароль! Без него файл не расшифровать"
+            echo "[*] Generated password: $PASSWORD"
+            echo "[!] Please, save password! You can't decrypt the file without it"
             echo "$PASSWORD" > "${FILE}.key"
             chmod 600 "${FILE}.key"
         fi
