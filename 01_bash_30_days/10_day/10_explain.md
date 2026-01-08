@@ -45,4 +45,4 @@ A lightweight web directory enumeration tool designed for security assessments a
 chmod +x dir_scanner.sh
 ./dir_scanner.sh https://target-website.com
 ```
-![Security](https://img.shields.io/badge/Security-Tool-red)
+![Network](https://img.shields.io/badge/Network-Scanner-blue)
