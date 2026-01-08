@@ -71,8 +71,8 @@ chmod +x 01_bash_30_days/*.sh
 | 10 | Brute Force Web-Directory | ✅ Completed | Network |
 | 11 | Auto Nmap Scan | ✅ Completed | Network |
 | 12 | OSINT Info Collector | ✅ Completed | Network |
-| 13 | File encryptor (openssl) | 🟡 In progress | Security |
-| 14 | System Auditor | ❌ Not started | Base |
+| 13 | File encryptor (openssl) | ✅ Completed | Security |
+| 14 | System Auditor | 🟡 In progress | Base |
 | 15 | Multi-threaded Port Scanner | ❌ Not started | Network |
 | ... | ... | ... | ... |
 
@@ -92,6 +92,6 @@ chmod +x 01_bash_30_days/*.sh
 # All scripts are created for educational purposes. Use only in test environments with appropriate permissions.
 ```
 
-![Progress](https://img.shields.io/badge/Progress-12%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-13%2F90-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/@/90days-pentest-scripts)
 ![License](https://img.shields.io/badge/License-MIT-green)
