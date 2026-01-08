@@ -57,21 +57,23 @@ chmod +x 01_bash_30_days/*.sh
 
 ### Phase 1: Bash (Days 1-30)
 
-| Day | Script | Status | Type |
+|| Day | Script | Status | Type |
 |------|--------|---------|-------|
 | 1 | System Informant | ✅ Completed | Base |
 | 2 | Automatic Backup | ✅ Completed | Base |
 | 3 | Disk Space Monitor | ✅ Completed | Base |
 | 4 | File Renamer | ✅ Completed | Base |
-| 5 | Automatic Package Installer | ✅ Completed | Base |
-| 6 | Critical Error Analyzer | ✅ Completed | Base |
+| 5 | Critical Error Analyzer | ✅ Completed | Base |
+| 6 | Automatic Package Installer | ✅ Completed | Base |
 | 7 | Checking Security Updates | ✅ Completed | Base |
 | 8 | Processes Monitor | ✅ Completed | Base |
 | 9 | Network Scanner | ✅ Completed | Network |
 | 10 | Brute Force Web-Directory | ✅ Completed | Network |
 | 11 | Auto Nmap Scan | ✅ Completed | Network |
-| 12 | OSINT Info Collector | 🟡 In progress | Network |
-| 13 | File encryptor | ❌ Not started | Security |
+| 12 | OSINT Info Collector | ✅ Completed | Network |
+| 13 | File encryptor (openssl) | 🟡 In progress | Security |
+| 14 | System Auditor | ❌ Not started | Base |
+| 15 | Multi-threaded Port Scanner | ❌ Not started | Network |
 | ... | ... | ... | ... |
 
 --------
