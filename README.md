@@ -57,7 +57,7 @@ chmod +x 01_bash_30_days/*.sh
 
 ### Phase 1: Bash (Days 1-30)
 
-|| Day | Script | Status | Type |
+| Day | Script | Status | Type |
 |------|--------|---------|-------|
 | 1 | System Informant | ✅ Completed | Base |
 | 2 | Automatic Backup | ✅ Completed | Base |
