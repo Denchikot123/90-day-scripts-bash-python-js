@@ -3,7 +3,7 @@
 set -e
 
 if ! command -v openssl &> dev/null; then
-    echo "[-] OpenSSL not installed. Install - 'sudo apt istall openssl'"
+    echo "[-] OpenSSL not installed. Install - 'sudo apt install openssl'"
     exit 1
 fi
 
