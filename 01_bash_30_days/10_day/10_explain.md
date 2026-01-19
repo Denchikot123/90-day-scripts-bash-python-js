@@ -1,6 +1,5 @@
 # Web Directory Scanner
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Security](https://img.shields.io/badge/Security-Tool-red)
 
 ## 🎯 Purpose
 A targeted web directory discovery script designed for penetration testers and security analysts to systematically identify exposed directories and files on web servers. This tool performs dictionary-based enumeration by testing common web paths against a target URL, filtering results based on meaningful HTTP response codes to reveal potentially sensitive or hidden resources during security assessments.
