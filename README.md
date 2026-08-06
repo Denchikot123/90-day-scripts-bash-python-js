@@ -1,4 +1,4 @@
-# ❌CLOSED❌ 
+#### [RUS]/[ENG] Закрыто из-за нехватки времени на выполнение плана / Closed due to a lack of time to complete the plan
 
 # 90-day-scripts-bash-python-js
 
